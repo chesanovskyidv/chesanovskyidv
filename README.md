@@ -6,13 +6,13 @@
 
 <h1 align="center">Hi👋, I'm Denys!</h1>
 
-<h3 align="left">👩‍💻 About me</h3>
+### 👩‍💻 About me
 
-I'm in Software Engineering third part of my life. Inspired by the greatest ideas of computer science, I decided I want to be one of those who makes this world better.<br />
+I'm in Software Engineering third part of my life. Inspired by the greatest ideas of computer science, I decided I want to be one of those who makes this world better.
 
-And I do it.<br />
+And I do it.
 
-Every day is a step to improve lives. Every week is a possibility to open something new. Every month is a chance to prove the truth. Every year is an approach to a better future.<br />
+Every day is a step to improve lives. Every week is a possibility to open something new. Every month is a chance to prove the truth. Every year is an approach to a better future.
 
 Life is incredible. And I'll be the one who builds tomorrow.
 
@@ -32,13 +32,11 @@ Life is incredible. And I'll be the one who builds tomorrow.
       src="assets/github-contribution-grid-snake.svg"
     />
   </picture>
-</p>
+</div>
 
-<h3 align="left">🛠 Technologies</h3>
+### 🛠 Technologies</h3>
 
-<div align="left">I love exploring new technologies and continuously expanding my skill set. My experience includes:</div>
-
-<br />
+I love exploring new technologies and continuously expanding my skill set. My experience includes:
 
 <div align="left">
   <a href="https://wikipedia.org/wiki/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" /></a>
@@ -83,12 +81,9 @@ Life is incredible. And I'll be the one who builds tomorrow.
   <a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" height="40" alt="redis" /></a>
 </div>
 
-<br />
-<h3 align="left">🏆 Certifications</h3>
+### 🏆 Certifications
 
-<div align="left">I am committed to professional growth and staying updated with the latest industry standards. Below is a list of certifications I have earned:</br>
-
-<br />
+I am committed to professional growth and staying updated with the latest industry standards. Below is a list of certifications I have earned:
 
 <div align="left">
   <a href="https://www.credly.com/badges/064301b2-7c0d-469b-b1f8-b692f69808e2/public_url"><img height="108" src="assets/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" /></a>
