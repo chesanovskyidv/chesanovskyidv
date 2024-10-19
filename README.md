@@ -88,5 +88,6 @@ I am committed to professional growth and staying updated with the latest indust
 <div align="left">
   <a href="https://www.credly.com/badges/064301b2-7c0d-469b-b1f8-b692f69808e2/public_url"><img height="108" src="assets/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" /></a>
   <a href="https://www.credly.com/badges/d507822a-d0e8-4bdf-9c0b-17aab63a59d4/public_url"><img height="108" src="assets/associate-cloud-engineer-certification.png" alt="Associate Cloud Engineer Certification" /></a>
+  <a href="https://www.credly.com/badges/2e9cdd61-b92c-4cbf-93cb-f4c3d5adb29f/public_url"><img height="108" src="assets/github-actions.png" alt="GitHub Actions" /></a>
   <a href="https://www.credly.com/badges/60607a26-0e33-4d88-8cce-54c5f235cf5d/public_url"><img height="108" src="assets/agile-fundamentals.png" alt="Agile Fundamentals" /></a>
 </div>
